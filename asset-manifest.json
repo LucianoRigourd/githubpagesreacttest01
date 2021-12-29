@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/githubpagesreacttest01/static/css/main.5d55cd70.chunk.css",
+    "main.css": "/githubpagesreacttest01/static/css/main.bf7e15e0.chunk.css",
     "main.js": "/githubpagesreacttest01/static/js/main.3795ea30.chunk.js",
     "main.js.map": "/githubpagesreacttest01/static/js/main.3795ea30.chunk.js.map",
     "runtime-main.js": "/githubpagesreacttest01/static/js/runtime-main.c076a955.js",
@@ -8,13 +8,13 @@
     "static/js/2.c9ddf78e.chunk.js": "/githubpagesreacttest01/static/js/2.c9ddf78e.chunk.js",
     "static/js/2.c9ddf78e.chunk.js.map": "/githubpagesreacttest01/static/js/2.c9ddf78e.chunk.js.map",
     "index.html": "/githubpagesreacttest01/index.html",
-    "static/css/main.5d55cd70.chunk.css.map": "/githubpagesreacttest01/static/css/main.5d55cd70.chunk.css.map",
+    "static/css/main.bf7e15e0.chunk.css.map": "/githubpagesreacttest01/static/css/main.bf7e15e0.chunk.css.map",
     "static/js/2.c9ddf78e.chunk.js.LICENSE.txt": "/githubpagesreacttest01/static/js/2.c9ddf78e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c076a955.js",
     "static/js/2.c9ddf78e.chunk.js",
-    "static/css/main.5d55cd70.chunk.css",
+    "static/css/main.bf7e15e0.chunk.css",
     "static/js/main.3795ea30.chunk.js"
   ]
 }
